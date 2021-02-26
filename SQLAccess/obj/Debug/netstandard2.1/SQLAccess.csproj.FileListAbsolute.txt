@@ -1,0 +1,12 @@
+E:\Tasks\ECommerceTwoFeatures\SQLAccess\bin\Debug\netstandard2.1\SQLAccess.deps.json
+E:\Tasks\ECommerceTwoFeatures\SQLAccess\bin\Debug\netstandard2.1\SQLAccess.dll
+E:\Tasks\ECommerceTwoFeatures\SQLAccess\bin\Debug\netstandard2.1\SQLAccess.pdb
+E:\Tasks\ECommerceTwoFeatures\SQLAccess\bin\Debug\netstandard2.1\Entity.dll
+E:\Tasks\ECommerceTwoFeatures\SQLAccess\bin\Debug\netstandard2.1\Entity.pdb
+E:\Tasks\ECommerceTwoFeatures\SQLAccess\obj\Debug\netstandard2.1\SQLAccess.csprojAssemblyReference.cache
+E:\Tasks\ECommerceTwoFeatures\SQLAccess\obj\Debug\netstandard2.1\SQLAccess.AssemblyInfoInputs.cache
+E:\Tasks\ECommerceTwoFeatures\SQLAccess\obj\Debug\netstandard2.1\SQLAccess.AssemblyInfo.cs
+E:\Tasks\ECommerceTwoFeatures\SQLAccess\obj\Debug\netstandard2.1\SQLAccess.csproj.CoreCompileInputs.cache
+E:\Tasks\ECommerceTwoFeatures\SQLAccess\obj\Debug\netstandard2.1\SQLAccess.csproj.CopyComplete
+E:\Tasks\ECommerceTwoFeatures\SQLAccess\obj\Debug\netstandard2.1\SQLAccess.dll
+E:\Tasks\ECommerceTwoFeatures\SQLAccess\obj\Debug\netstandard2.1\SQLAccess.pdb

@@ -1,0 +1,22 @@
+{
+  "version": "1.0",
+  "defaultProvider": "unpkg",
+  "libraries": [
+    {
+      "library": "jquery@3.5.1",
+      "destination": "wwwroot/lib/jquery/"
+    },
+    {
+      "library": "bootstrap@4.6.0",
+      "destination": "wwwroot/lib/bootstrap/"
+    },
+    {
+      "library": "jquery.easing@1.4.1",
+      "destination": "wwwroot/lib/jquery.easing/"
+    },
+    {
+      "library": "jquery-validation@1.19.3",
+      "destination": "wwwroot/lib/jquery-validation/"
+    }
+  ]
+}

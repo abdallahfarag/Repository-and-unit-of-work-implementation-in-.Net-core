@@ -1,0 +1,8 @@
+E:\Tasks\ECommerceTwoFeatures\Entity\bin\Debug\netstandard2.0\Entity.deps.json
+E:\Tasks\ECommerceTwoFeatures\Entity\bin\Debug\netstandard2.0\Entity.dll
+E:\Tasks\ECommerceTwoFeatures\Entity\bin\Debug\netstandard2.0\Entity.pdb
+E:\Tasks\ECommerceTwoFeatures\Entity\obj\Debug\netstandard2.0\Entity.AssemblyInfoInputs.cache
+E:\Tasks\ECommerceTwoFeatures\Entity\obj\Debug\netstandard2.0\Entity.AssemblyInfo.cs
+E:\Tasks\ECommerceTwoFeatures\Entity\obj\Debug\netstandard2.0\Entity.csproj.CoreCompileInputs.cache
+E:\Tasks\ECommerceTwoFeatures\Entity\obj\Debug\netstandard2.0\Entity.dll
+E:\Tasks\ECommerceTwoFeatures\Entity\obj\Debug\netstandard2.0\Entity.pdb

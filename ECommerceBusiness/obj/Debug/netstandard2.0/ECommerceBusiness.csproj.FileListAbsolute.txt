@@ -1,0 +1,16 @@
+E:\Tasks\ECommerceTwoFeatures\ECommerceBusiness\bin\Debug\netstandard2.0\ECommerceBusiness.deps.json
+E:\Tasks\ECommerceTwoFeatures\ECommerceBusiness\bin\Debug\netstandard2.0\ECommerceBusiness.dll
+E:\Tasks\ECommerceTwoFeatures\ECommerceBusiness\bin\Debug\netstandard2.0\ECommerceBusiness.pdb
+E:\Tasks\ECommerceTwoFeatures\ECommerceBusiness\bin\Debug\netstandard2.0\Entity.dll
+E:\Tasks\ECommerceTwoFeatures\ECommerceBusiness\bin\Debug\netstandard2.0\SQLAccess.dll
+E:\Tasks\ECommerceTwoFeatures\ECommerceBusiness\bin\Debug\netstandard2.0\SQLProvider.dll
+E:\Tasks\ECommerceTwoFeatures\ECommerceBusiness\bin\Debug\netstandard2.0\SQLProvider.pdb
+E:\Tasks\ECommerceTwoFeatures\ECommerceBusiness\bin\Debug\netstandard2.0\Entity.pdb
+E:\Tasks\ECommerceTwoFeatures\ECommerceBusiness\bin\Debug\netstandard2.0\SQLAccess.pdb
+E:\Tasks\ECommerceTwoFeatures\ECommerceBusiness\obj\Debug\netstandard2.0\ECommerceBusiness.csprojAssemblyReference.cache
+E:\Tasks\ECommerceTwoFeatures\ECommerceBusiness\obj\Debug\netstandard2.0\ECommerceBusiness.AssemblyInfoInputs.cache
+E:\Tasks\ECommerceTwoFeatures\ECommerceBusiness\obj\Debug\netstandard2.0\ECommerceBusiness.AssemblyInfo.cs
+E:\Tasks\ECommerceTwoFeatures\ECommerceBusiness\obj\Debug\netstandard2.0\ECommerceBusiness.csproj.CoreCompileInputs.cache
+E:\Tasks\ECommerceTwoFeatures\ECommerceBusiness\obj\Debug\netstandard2.0\ECommerceBusiness.csproj.CopyComplete
+E:\Tasks\ECommerceTwoFeatures\ECommerceBusiness\obj\Debug\netstandard2.0\ECommerceBusiness.dll
+E:\Tasks\ECommerceTwoFeatures\ECommerceBusiness\obj\Debug\netstandard2.0\ECommerceBusiness.pdb

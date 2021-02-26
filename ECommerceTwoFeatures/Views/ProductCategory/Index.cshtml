@@ -1,0 +1,85 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Product Category</h1>
+
+<form>
+    <div class="form-group">
+        <label class="control-label">Category Name</label>
+        <input id="categoryName" type="text" class="form-control" required>
+    </div>
+    <div class="form-group">
+        <label class="control-label">Category Parent</label>
+        <select id="parentCategoryId" class="form-control">
+            <option disabled selected>Categories</option>
+        </select>
+    </div>
+    <input id="AddCategory" value="Add Category" class="mb-5 btn btn-primary" />
+</form>
+
+
+<table id="categoriesTable" class="table table-striped table-hover">
+    <tr>
+        <th>
+            Category Name
+        </th>
+        <th>
+            Category Parent
+        </th>
+    </tr>
+       
+</table>
+
+
+@section Scripts{
+    <script>
+        $(document).ready(function () {
+            $.ajax({
+                type: "GET",
+                url: "/ProductCategory/Categories",
+                success: function (data) {
+                    console.log(data);
+                    $.each(data, function () {
+                        console.log(this);
+                        $("#parentCategoryId").append($("<option></option>").val(this['id']).html(this['name']));
+                        $("#categoriesTable").append($("<tr><td>" + this['name'] + "</td><td>" + this['parentProductCategoryName'] + "</td></tr>"));
+
+                    });
+                }
+            });
+        });
+
+        $("#AddCategory").click(function () {
+
+            let category = {
+                Name: $("#categoryName").val(),
+                ParentCategoryId : $("#parentCategoryId").val()
+            };
+            console.log(category)
+            $.ajax({
+                type: "POST",
+                datatype: "text",
+                url: "/ProductCategory/AddCategory",
+                data: category,
+                success: function (resp) {
+                    $("#categoriesTable").find("tr:gt(0)").remove();
+
+                    $.ajax({
+                        type: "GET",
+                        url: "/ProductCategory/Categories",
+                        success: function (data) {
+                            console.log(data)
+                            $.each(data, function () {
+                                console.log(data)
+                                $("#categoriesTable").append($("<tr><td>" + this['name'] + "</td><td>" + this['parentProductCategoryName'] + "</td></tr>"));
+                                $("#categoryName").val("");
+                                $("#parentCategoryId").val($("#parentCategoryId option:first").val());
+                            });
+                        }
+                    });
+                }
+            });
+        });
+    </script>
+}
